@@ -30,6 +30,11 @@
             <artifactId>flyway-mysql</artifactId>
             <version>8.5.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-jdbc</artifactId>
+            <version>5.3.15</version>
+        </dependency>
     </dependencies>
 
 </project>
